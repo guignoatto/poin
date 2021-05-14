@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7945377874efb5438cacceada3b7848, type: 3}
+  m_Name: Brtt
+  m_EditorClassIdentifier: 
+  JogadorTag: 1
+  LaneJogador: 3
+  Nome: Brtt
+  Multiplicador: 5
+  Dinheiros: 100
+  Foto: {fileID: 21300000, guid: 4d075cf4030f6e142adca32d8cd4812f, type: 3}
